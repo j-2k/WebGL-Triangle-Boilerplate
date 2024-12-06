@@ -51,6 +51,10 @@ I will list what I used, just incase for anyone wondering what I used/platform c
        - windows/cmdprompt > ```tsc filename.ts && node filename.js```
 
 # Resources
+- Learn the javascript runtime/event loop it's very important
+  - https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/
+  - https://www.youtube.com/watch?v=eiC58R16hb8&
+  - https://www.youtube.com/watch?v=8aGhZQkoFbQ&
 - [MDN Docs](https://developer.mozilla.org/en-US/)
 - [MDN Docs - Learn full web development from scratch](https://developer.mozilla.org/en-US/docs/Learn)
 - [chatgpt.com](https://chatgpt.com/)
