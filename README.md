@@ -12,10 +12,9 @@ This section is still underconstruction, this repository is generated from anoth
     - ```npm -v```
 
 # Building the project
-1. Enter the correct directory WebGL-Trial/webgl-main
-2. Install dependencies using ```npm i``` in your terminal
-3. Run & start the project using ```npm run dev``` in terminal again
-4. The website should automatically open on ```localhost:5173```! (Check the terminal incase its a different port! If it is taken Vite will automatically try the next available port.)
+1. Install dependencies using ```npm i``` in your terminal
+2. Run & start the project using ```npm run dev``` in terminal again
+3. The website should automatically open on ```localhost:5173```! (Check the terminal incase its a different port! If it is taken Vite will automatically try the next available port.)
 
 # My Platform, Versioning, & Dev environment
 I will list what I used, just incase for anyone wondering what I used/platform choice to make this project.
@@ -81,9 +80,6 @@ I will list what I used, just incase for anyone wondering what I used/platform c
 - Hosting Notes (Ignore):
   - Was looking into hosting services and found this, its a nice website! > https://wheretohostmy.app/free-tier-comparison
   - Used Netlify and it was really fast to setup. Just drag & drop the built project dist files into the host service & thats it! You can get the dist file by doing ```npm run build``` and the dist file will be created.
- 
-# Graphics Rendering Pipeline Process
-Very important, I will write this out once I fully/almost understand everything in the pipeline.
 
 # Important Computer Graphics Concepts
 This is here to list important topics & showcase some things I went through whilst learning CG & WebGL!  
